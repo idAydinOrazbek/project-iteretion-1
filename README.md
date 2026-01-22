@@ -1,2 +1,2 @@
-# project-iteretion-1
+# project-1
 online shop
