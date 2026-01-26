@@ -29,7 +29,7 @@ public class Product {
         return stock;
     }
 
-    // ✅ ВОТ ОН — ВНУТРИ КЛАССА
+  
     public void decreaseStock(int amount) {
         if (amount <= 0) return;
         if (stock >= amount) {
